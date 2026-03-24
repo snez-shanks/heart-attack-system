@@ -40,11 +40,12 @@ heart-attack-system
 └── README.md
 
 ## How to Run the Project
-1. Install dependencies:  
+### 1. Install dependencies:  
 ```bash
 pip install -r requirements.txt
+### 2. Run the Streamlit app
 streamlit run app.py
-Live Application
+## Live Application
 
 You can access the deployed app here:
 https://snez-shanks-heart-attack-system-app-p0ehid.streamlit.app/
