@@ -69,6 +69,14 @@ B.Tech (IT) – Machine Learning & Data Analytics
 • Integration with e-commerce APIs  
 • Automated pricing optimization engine
 
+## Application Preview
+
+### Image 1
+![Heart Attack Preview 1](images/1_heart_attack.png)
+
+### Image 2
+![Heart Attack Preview 2](images/2_heart_attack.png)
+
 
 
 
