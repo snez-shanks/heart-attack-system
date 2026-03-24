@@ -40,15 +40,20 @@ heart-attack-system
 └── README.md
 
 ## How to Run the Project
-### 1. Install dependencies:  
-```bash
-pip install -r requirements.txt
-### 2. Run the Streamlit app
-streamlit run app.py
+
+### 1 Install dependencies
+
+### 2 Run the Streamlit app
+
+---
+
 ## Live Application
 
 You can access the deployed app here:
+
 https://snez-shanks-heart-attack-system-app-p0ehid.streamlit.app/
+
+---
 
 ## Author
 
@@ -57,11 +62,13 @@ https://snez-shanks-heart-attack-system-app-p0ehid.streamlit.app/
 Sneha Shankarwal  
 B.Tech (IT) – Machine Learning & Data Analytics
 ---
-
 ## Future Improvements
-Real-time patient data input and monitoring
-Integration with wearable health devices
-Advanced prediction models for higher accuracy
-Personalized health recommendations based on prediction
+
+• Real-time competitor price scraping  
+• Advanced demand forecasting models  
+• Integration with e-commerce APIs  
+• Automated pricing optimization engine
+
+
 
 
