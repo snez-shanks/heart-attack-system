@@ -49,13 +49,15 @@ Live Application
 You can access the deployed app here:
 https://snez-shanks-heart-attack-system-app-p0ehid.streamlit.app/
 
-Author
+## Author
 
-👩‍💻 Author
-Sneha Shankarwal
+## 👩‍💻 Author
+
+Sneha Shankarwal  
 B.Tech (IT) – Machine Learning & Data Analytics
+---
 
-Future Improvements
+## Future Improvements
 Real-time patient data input and monitoring
 Integration with wearable health devices
 Advanced prediction models for higher accuracy
