@@ -4,12 +4,25 @@ This project builds a machine learning-based system that predicts the risk of a 
 
 The system analyzes factors such as age, sex, cholesterol levels, blood pressure, ECG results, and lifestyle habits to provide a risk assessment.
 
+
+
 ## Features
 - Machine Learning heart attack prediction model
 - Data preprocessing and feature engineering
 - Interactive dashboard using Streamlit
 - Visualizations for patient health insights
 - Risk score calculation for personalized recommendations
+
+##summary
+📌 Project Overview
+
+This project is an end-to-end Machine Learning-based Heart Attack Prediction System that analyzes patient health data and predicts the likelihood of heart disease. The system is designed to assist in early risk detection and provide insights for preventive healthcare.
+
+🎯 Objectives
+Predict the risk of heart disease using patient health parameters
+Enhance prediction accuracy using feature engineering (BMI & Risk Score)
+Build an interactive web application for real-time predictions
+Provide a scalable and modular ML system
 
 ## Technologies Used
 - Python
