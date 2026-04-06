@@ -13,7 +13,7 @@ The system analyzes factors such as age, sex, cholesterol levels, blood pressure
 - Visualizations for patient health insights
 - Risk score calculation for personalized recommendations
 
-## summary
+## Summary
 📌 Project Overview
 
 This project is an end-to-end Machine Learning-based Heart Attack Prediction System that analyzes patient health data and predicts the likelihood of heart disease. The system is designed to assist in early risk detection and provide insights for preventive healthcare.
